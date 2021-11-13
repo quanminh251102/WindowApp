@@ -91,6 +91,7 @@ namespace WindowApp
             this.tbDuration.Enabled = false;
             this.cbAction.Enabled = false;
             this.btnOk.Enabled = false;
+            // hello heloo
         }
 
         private void timer1_Tick(object sender, EventArgs e)
